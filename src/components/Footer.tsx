@@ -3,7 +3,7 @@ import { FaTelegram, FaXTwitter, FaYoutube } from "react-icons/fa6";
 export default function Footer() {
   return (
     <footer className="border-t border-white/10 bg-[var(--brand-black)]">
-      <div className="mx-auto max-w-6xl px-4 py-12 text-sm text-white/70">
+      <div className="mx-auto max-w-6xl px-4 pb-2 pt-4 text-sm text-white/70">
         <div className="grid gap-10 md:grid-cols-2">
           <div className="max-w-sm">
             <div className="text-lg font-semibold tracking-tight text-white">
